@@ -1,0 +1,26 @@
+﻿  Window.cpp
+  Trackball.cpp
+  Timer.cpp
+  Shader.cpp
+  Scene1.cpp
+c:\users\axepc\desktop\componentframework\componentframework\quaternion.h(28): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\axepc\desktop\componentframework\componentframework\quaternion.h(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\axepc\desktop\componentframework\componentframework\quaternion.h(128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\axepc\desktop\componentframework\componentframework\quaternion.h(129): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\axepc\desktop\componentframework\componentframework\quaternion.h(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\axepc\desktop\componentframework\componentframework\quaternion.h(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\axepc\desktop\componentframework\componentframework\quaternion.h(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\axepc\desktop\componentframework\componentframework\scene1.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\axepc\desktop\componentframework\componentframework\scene1.cpp(70): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\axepc\desktop\componentframework\componentframework\scene1.cpp(73): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\axepc\desktop\componentframework\componentframework\scene1.cpp(156): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\axepc\desktop\componentframework\componentframework\scene1.cpp(160): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Scene.cpp
+  Physics.cpp
+c:\users\axepc\desktop\componentframework\componentframework\physics.cpp(40): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Model.cpp
+  Mesh.cpp
+  Main.cpp
+  GameSceneManager.cpp
+  Generating Code...
+  ComponentFramework.vcxproj -> C:\Users\AxePC\Desktop\ComponentFramework\Debug\ComponentFramework.exe

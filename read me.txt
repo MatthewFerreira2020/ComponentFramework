@@ -1,0 +1,1 @@
+Begining of making a game engine using openGL, SDL, and GLEW.
